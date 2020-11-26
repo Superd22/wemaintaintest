@@ -2,10 +2,12 @@
 
 ** Make sure that port 4000 and 3000 are available. **
 
-npm install
-npm run dev
+    npm install
+
+    npm run dev
 
 app url: http://localhost:4000/search
+    
     Search route:
         method: POST
         header: Content-Type: application/json
